@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 12 22:28:08 PDT 2014
+compatibility-v7-mediarouter-2.4.0.pom>=
+compatibility-v7-mediarouter-2.4.0.apklib>=
